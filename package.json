@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "README.md File",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hartsfieldt/jest-another-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hartsfieldt/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/hartsfieldt/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
